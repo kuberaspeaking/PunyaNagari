@@ -38,6 +38,7 @@ var style = new H.map.Style('https://kuberaspeaking.github.io/Styles/cesStyle.ya
 provider.setStyle(style);
 var shaniwarwada = new H.map.Icon('assets/shaniwarwada.png',{size:{w:25,h:25}});
 var centerMarker = new H.map.Marker(mapCenter,{icon:shaniwarwada});
+centerMarker.setData("Shaniwarwada")
 var shapeGroup = new H.map.Group();
 var placeGroup = new H.map.Group();
 map.addObjects([centerMarker,shapeGroup,placeGroup]);
