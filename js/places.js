@@ -3,7 +3,7 @@ let places = [
     "Baner",
     "Pashan",
     "Magarpatta",
-    "Sinhagad Road",
+    "Pu.La, Deshpande garden, Sinhagad Road",
     "Narhe",
     "Hinjewadi",
     "Koregaonpark",
