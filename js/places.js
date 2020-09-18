@@ -12,7 +12,8 @@ let places = [
     "Camp",
     "Kalyaninagar",
     "Vimannagar",
-    "Empire Estate"
+    "Empire Estate",
+    "Pimple Saudagar"
 ];
 
 var service = platform.getSearchService();
