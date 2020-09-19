@@ -18,6 +18,7 @@ let places = [
     "Bavdhan",
     "Deccan",
     "F.C. Road",
-    "J.M. ROAD"
+    "J.M. Road",
+    "New Karnatak High School"
 ];
 
