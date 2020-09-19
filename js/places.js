@@ -15,6 +15,7 @@ let places = [
     "Empire Estate",
     "Pimple Saudagar",
     "Bhugaon", 
-    "Bavdhan"
+    "Bavdhan",
+    "Deccan"
 ];
 
